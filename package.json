@@ -1,0 +1,25 @@
+{
+  "name": "porjeto-tecnica-programacao",
+  "version": "1.0.0",
+  "description": "Projeto aula da faculdade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelAlcantara/porjeto-tecnica-programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm",
+    "faculdade"
+  ],
+  "author": "Michael Alcantara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelAlcantara/porjeto-tecnica-programacao/issues"
+  },
+  "homepage": "https://github.com/MichaelAlcantara/porjeto-tecnica-programacao#readme"
+}
